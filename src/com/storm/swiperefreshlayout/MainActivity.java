@@ -2,7 +2,7 @@
  * Created by Storm Zhang, Mar 31, 2014.
  */
 
-package com.storm.swiperefreshlayoutdemo;
+package com.storm.swiperefreshlayout;
 
 import android.app.Activity;
 import android.os.Bundle;
