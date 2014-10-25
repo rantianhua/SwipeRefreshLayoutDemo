@@ -36,8 +36,9 @@ public class MainActivity extends Activity implements SwipeRefreshLayout.OnRefre
 
 	private ArrayList<String> getData() {
 		list.add("Hello");
-		list.add("This is stormzhang !");
-		list.add("An Android Developer, Love Open Source");
+		list.add("This is stormzhang");
+		list.add("An Android Developer");
+		list.add("Love Open Source");
 		list.add("My GitHub: stormzhang");
 		list.add("weibo: googdev");
 		return list;
